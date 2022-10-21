@@ -5,8 +5,6 @@ Du wolltest schon immer mal die umfangreiche Mod "Second Wind" auf Deutsch spiel
 Du kannst die Übersetzung verwenden, wenn es einen Release auf dem Tab "Release" gibt.
 
 # Mitwirkende
-@customswitch
-
-@KoenigYoshi
-
-@Ncoord
+- [customswitch](https://github.com/customswitch)
+- [Ncoord](https://github.com/Ncoord)
+- [KoenigYoshi](https://github.com/KoenigYoshi)
