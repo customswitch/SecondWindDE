@@ -4,6 +4,10 @@ Du wolltest schon immer mal die umfangreiche Mod "Second Wind" auf Deutsch spiel
 # Wann kann ich die Übersetzung verwenden?
 Du musst die aktuellste .BNP Datei aus dem "Release" Tab verwenden und mit [BCML](https://gamebanana.com/tools/6624) installieren.
 
+# Wie kann ich dieses Projekt unterstützen?
+Du kannst dieses Projekt unterstützen indem du uns Fehler/Übersetzungsfehler im [Issues-Tab](https://github.com/customswitch/SecondWindGerman/issues) mitteilst.
+
+
 # Mitwirkende
 - [customswitch](https://github.com/customswitch)
 - [Ncoord](https://github.com/Ncoord)
