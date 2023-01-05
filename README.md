@@ -6,6 +6,8 @@ Du kannst uns auf unserem [Discord Server](https://discord.gg/KbSh6k8e9v) kontak
 
 ![discord-logo](https://user-images.githubusercontent.com/75135467/210768954-8f80e5eb-17d9-495c-b10f-2f50191ca063.jpg)
 
+[Discord Server jetzt beitreten!](https://discord.gg/KbSh6k8e9v)
+
 # Wann kann ich die Übersetzung verwenden?
 Du musst die aktuellste .BNP Datei aus dem "Release" Tab verwenden und mit [BCML](https://gamebanana.com/tools/6624) installieren.
 
