@@ -12,7 +12,7 @@ Du kannst uns auf unserem [Discord Server](https://discord.gg/KbSh6k8e9v) kontak
 Du musst die aktuellste .BNP Datei aus dem "Release" Tab verwenden und mit [BCML](https://gamebanana.com/tools/6624) installieren.
 
 # Wie kann ich dieses Projekt unterstützen?
-Du kannst dieses Projekt unterstützen indem du uns Fehler/Übersetzungsfehler im [Issues Tab](https://github.com/customswitch/SecondWindGerman/issues) mitteilst.
+Du kannst dieses Projekt unterstützen indem du uns Fehler/Übersetzungsfehler im [Issues Tab](https://github.com/customswitch/SecondWindGerman/issues) mitteilst und unserem [Discord Server](https://discord.gg/KbSh6k8e9v) beitrittst.
 
 # Mitwirkende
 - [customswitch](https://github.com/customswitch)
