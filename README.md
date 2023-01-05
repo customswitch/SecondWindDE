@@ -7,7 +7,6 @@ Du musst die aktuellste .BNP Datei aus dem "Release" Tab verwenden und mit [BCML
 # Wie kann ich dieses Projekt unterstützen?
 Du kannst dieses Projekt unterstützen indem du uns Fehler/Übersetzungsfehler im [Issues-Tab](https://github.com/customswitch/SecondWindGerman/issues) mitteilst.
 
-
 # Mitwirkende
 - [customswitch](https://github.com/customswitch)
 - [Ncoord](https://github.com/Ncoord)
