@@ -1,8 +1,8 @@
-# Breath of the Wild: Second Wind DE
+# Breath of the Wild: Second Wind German
 Du wolltest schon immer mal die umfangreiche Mod "Second Wind" auf Deutsch spielen? Dann ist dieses Projekt genau das Richtige für Dich! Dieses Projekt befindet sich in der Entwicklung und mit jedem SW-Update wird es einige Zeit dauern, bis die deutsche Version veröffentlicht wird, da nur wenige Personen mithelfen und wir zurzeit NICHT mit dem Second Wind Team in Verbindung stehen.
 
 # Wann kann ich die Übersetzung verwenden?
-Du kannst die Übersetzung verwenden, wenn es einen Release auf dem Tab "Release" gibt.
+Du musst die aktuellste .BNP Datei aus dem "Release" Tab verwenden und mit [BCML](https://gamebanana.com/tools/6624) installieren.
 
 # Mitwirkende
 - [customswitch](https://github.com/customswitch)
