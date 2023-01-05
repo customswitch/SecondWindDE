@@ -7,7 +7,7 @@ Du wolltest schon immer mal die umfangreiche Mod "Second Wind" auf Deutsch spiel
 # Uns Kontaktieren
 Du kannst uns auf unserem [Discord Server](https://discord.gg/KbSh6k8e9v) kontaktieren.
 
-[![discord-logo]([link to image on GH](https://user-images.githubusercontent.com/75135467/210770641-8db5d0ad-a463-4ea0-b219-b62d5bd22442.jpg))]([link to your URL](https://discord.gg/KbSh6k8e9v))
+[![discord-logo](https://user-images.githubusercontent.com/75135467/210770641-8db5d0ad-a463-4ea0-b219-b62d5bd22442.jpg)](https://discord.gg/KbSh6k8e9v)
 
 [Discord Server jetzt beitreten!](https://discord.gg/KbSh6k8e9v)
 
