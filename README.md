@@ -3,6 +3,7 @@ Du wolltest schon immer mal die umfangreiche Mod "Second Wind" auf Deutsch spiel
 
 # Uns Kontaktieren
 Du kannst uns auf unserem [Discord Server](https://discord.gg/KbSh6k8e9v) kontaktieren.
+
 ![discord-logo](https://user-images.githubusercontent.com/75135467/210768954-8f80e5eb-17d9-495c-b10f-2f50191ca063.jpg)
 
 # Wann kann ich die Übersetzung verwenden?
