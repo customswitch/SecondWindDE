@@ -11,3 +11,5 @@ Du kannst dieses Projekt unterstützen indem du uns Fehler/Übersetzungsfehler i
 - [customswitch](https://github.com/customswitch)
 - [Ncoord](https://github.com/Ncoord)
 - [KoenigYoshi](https://github.com/KoenigYoshi)
+
+- [Second Wind Team](https://discord.com/invite/VU4z9AF)
